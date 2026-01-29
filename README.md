@@ -35,15 +35,16 @@ Detail-oriented **Tech Engineer** with 3+ years of experience in **Manual & Auto
 ---
 
 ## 🧠 Tech Stack & Domain Expertise
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,testng,postman,jenkins,linux,oracle,mysql,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SDH-WDM-OTN-Telecom-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WDM-Network-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OTN-Telecom-green?style=for-the-badge" />
-</p>
+<p align="center"> <b>Automation • Testing • Tools • Telecom Domain</b> </p>
+⚙️ Automation & Testing
+<p align="center"> Java &nbsp;•&nbsp; Selenium WebDriver &nbsp;•&nbsp; TestNG <br/> Manual Testing &nbsp;•&nbsp; Functional Testing &nbsp;•&nbsp; Regression Testing &nbsp;•&nbsp; API Testing </p>
+🛠️ Tools & Platforms
+<p align="center"> Postman &nbsp;•&nbsp; Jenkins (CI/CD) &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Linux </p>
+🗄️ Databases
+<p align="center"> Oracle &nbsp;•&nbsp; MySQL <br/> <i>Backend data validation & fault record verification</i> </p>
+📡 Telecom Domain Expertise
+<p align="center"> SDH &nbsp;•&nbsp; WDM &nbsp;•&nbsp; OTN <br/> Fault Management Systems (FMS) &nbsp;•&nbsp; Alarm Correlation &nbsp;•&nbsp; Root Cause Analysis (RCA) </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,selenium,testng,postman,jenkins,linux,oracle,mysql,git,github" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Telecom-SDH%20%7C%20WDM%20%7C%20OTN-4B0082?style=for-the-badge"/> </p>
 
 ---
 
