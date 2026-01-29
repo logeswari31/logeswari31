@@ -2,10 +2,15 @@
 <h3 align="center">QA Analyst | Java • Selenium • TestNG | Telecom Domain Expert</h3>
 
 <p align="center">
-📍 India &nbsp;•&nbsp;
-📧 <a href="mailto:logeswaridks@gmail.com">Email</a> &nbsp;•&nbsp;
-💻 <a href="https://github.com/logeswari31">GitHub</a> &nbsp;•&nbsp;
-🌐 <a href="https://your-portfolio.netlify.app/">Portfolio</a>
+  <a href="mailto:logeswaridks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-logeswaridks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/logeswari31">
+    <img src="https://img.shields.io/badge/GitHub-logeswari31-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://your-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
 ---
