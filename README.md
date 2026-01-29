@@ -56,18 +56,18 @@ Detail-oriented **Quality Analyst** with 3+ years of experience in **Manual & Au
 
 ## 🧪 Automation Focus
 - ✅ Selenium WebDriver (Java)  
-- ✅ TestNG | Cucumber (BDD)  
-- ✅ API Testing (Postman, REST)  
+- ✅ TestNG
+- ✅ API Testing (Postman)  
 - ✅ CI/CD with Jenkins  
 - ✅ UI + Backend Validation  
-- ✅ Telecom Domain: SDH, WDM, OTN, FMS  
+- ✅ Telecom Domain: SDH, WDM, OTN
 
 ---
 
 ## 🏆 Highlights
 - 🚀 Reduced manual testing effort by **~20%** through automation  
-- 🧪 Automated **end-to-end fault propagation scenarios**  
-- 📡 Validated **Telecom FMS alarms & RCA workflows**  
+- 🧪 Automated **End-to-End RCA scenarios**  
+- 📡 Validated **FMS alarms & RCA workflows**  
 - 🔔 Executed **Netcool mediation → UI Alarm Validation Automation**  
 
 ---
@@ -107,19 +107,6 @@ A fully visual workflow showing **Telecom QA lifecycle**, with icons for **alarm
     <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
-
----
-
-✅ **Instructions:**  
-1. Replace `your-portfolio.netlify.app` with your actual portfolio link.  
-2. Replace `./5c631281-25a0-4330-8d27-a8d8292acb11.png` with your polished workflow image if you generate a better one.  
-3. All sections are **center-aligned, structured, and visually attractive** for recruiters.
-
-
-✅ Instructions:
-
-Replace your-github, your-portfolio.netlify.app, and your-email@example.com with your actual info.
-Replace workflow-telecom.png with the final polished diagram image you generate.
 
 <!--
 **logeswari31/logeswari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
