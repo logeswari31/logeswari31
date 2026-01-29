@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1 align="center">👋 Hi, I'm Logeswari D K</h1> <h3 align="center">Quality Analyst | Automation Tester | Telecom Domain Expert</h3> <p align="center"> <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue" /> <img src="https://img.shields.io/badge/Domain-Telecom-orange" /> <img src="https://img.shields.io/badge/Testing-Manual%20%7C%20Automation-green" /> </p>
+
 <!--
 **logeswari31/logeswari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
