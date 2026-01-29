@@ -3,8 +3,8 @@
 
 <p align="center">
 📍 India &nbsp;•&nbsp;
-📧 <a href="mailto:9791830975loki@gmail.com">Email</a> &nbsp;•&nbsp;
-💻 <a href="https://github.com/logeswari31/">GitHub</a> &nbsp;•&nbsp;
+📧 <a href="mailto:logeswaridks@gmail.com">Email</a> &nbsp;•&nbsp;
+💻 <a href="https://github.com/logeswari31">GitHub</a> &nbsp;•&nbsp;
 🌐 <a href="https://your-portfolio.netlify.app/">Portfolio</a>
 </p>
 
