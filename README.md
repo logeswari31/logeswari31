@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm D K Logeswari</h1> 
 <h3 align="center">QA Analyst | Java • Selenium • TestNG | Telecom Domain Expert</h3>
-<p align="center"> 📍 India &nbsp;•&nbsp; 📧 <a href="mailto:your-email@example.com">Email</a> &nbsp;•&nbsp; 💻 <a href="https://github.com/your-github">GitHub</a> &nbsp;•&nbsp; 🌐 <a href="https://your-portfolio.netlify.app/">Portfolio</a> </p>
+<p align="center"> 📍 India &nbsp;•&nbsp; 📧 <a href="mailto:9791830975loki@gmail.com">Email</a> &nbsp;•&nbsp; 💻 <a href="https://github.com/logeswari31/">GitHub</a> &nbsp;•&nbsp; 🌐 <a href="https://your-portfolio.netlify.app/">Portfolio</a> </p>
 
 <!--
 **logeswari31/logeswari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
