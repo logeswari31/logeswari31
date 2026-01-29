@@ -72,35 +72,21 @@ Detail-oriented **Tech Engineer** with 3+ years of experience in **Manual & Auto
 ---
 
 ## 📡 Telecom QA Workflow (Visual)
-A fully visual workflow showing **Telecom QA lifecycle**, with icons for **alarms, servers, network layers, API, DB validation, CI/CD, and RCA**.
+A visual representation of the **Telecom QA lifecycle**, covering Analysis, Design, Testing, Database validation, CI/CD, and Monitoring.
 
-<!-- <p align="center">
-  <img src="./5c631281-25a0-4330-8d27-a8d8292acb11.png" alt="Telecom QA Workflow" width="800"/>
-</p> -->
+- 📄 **Requirement Analysis**
+- 📝 **Test Plan & Strategy**
+- ✍️ **Test Case Design**
+- 🧪 **Manual Testing**
+- 🤖 **Automation Testing** (Selenium + TestNG)
+- 🌐 **API Testing** (Postman)
+- 🗄️ **Database Validation** (Oracle / MySQL)
+- 🚀 **CI/CD Integration** (Jenkins)
+- 🐞 **Defect Logging & Tracking** (Redmine)
+- 🔍 **RCA & Production Validation**
+- 🎯 **Release & Deployment**
+- 📡 **Monitoring & Maintenance**
 
-📄 Requirement Analysis
-        ↓
-📝 Test Plan & Strategy
-        ↓
-✍️ Test Case Design
-        ↓
-🧪 Manual Testing
-        ↓
-🤖 Automation Testing (Selenium + TestNG)
-        ↓
-🌐 API Testing (Postman)
-        ↓
-🗄️ Database Validation (Oracle / MySQL)
-        ↓
-🚀 CI/CD Integration (Jenkins)
-        ↓
-🐞 Defect Logging & Tracking (Redmine)
-        ↓
-🔍 RCA & Production Validation
-        ↓
-🎯 Release & Deployment
-        ↓
-📡 Monitoring & Maintenance
 
 ---
 
