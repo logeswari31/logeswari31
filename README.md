@@ -15,20 +15,20 @@
 
 ---
 
-## About Me
-Detail-oriented **Quality Analyst** with 3+ years of experience in **Manual & Automation Testing**, specializing in **Telecom RCA System**.
+## 👩‍💻 About Me
+Detail-oriented **Tech Engineer** with 3+ years of experience in **Manual & Automation Testing**, specializing in **Telecom RCA System**.
 
 ⚙️ Skilled in **Java • Selenium • TestNG**  
-🔁 Expert in **Functional, Regression, API & UI Testing**  
-📡 Strong domain expertise in **SDH, WDM & OTN Networks**  
-🚀 Experienced in **CI/CD pipelines & production defect validation**
+🔁 Strong in **Functional, Regression, API & UI Testing**  
+📡 Hands-on experience with **SDH, WDM & OTN Network Technologies**  
+🚀 Well-versed in **CI/CD pipelines & production defect validation**
 
 ---
 
-## 🔗 Explore My Work
+## 🚀 Explore My QA Journey
 <p align="center">
-  <a href="https://your-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" />
+  <a href="https://your-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20QA%20Journey-0A1A2F?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
