@@ -78,32 +78,29 @@ A fully visual workflow showing **Telecom QA lifecycle**, with icons for **alarm
   <img src="./5c631281-25a0-4330-8d27-a8d8292acb11.png" alt="Telecom QA Workflow" width="800"/>
 </p> -->
 
-<!-- ### Workflow Steps
-- **Requirement Analysis** – 📄 Document understanding & scope  
-- **Test Plan & Strategy** – 📝 Define test types, scope, and timelines  
-- **Test Case Design** – ✍️ Create manual & automation test cases  
-- **Manual Testing** – 🧪 Execute functional, regression, and sanity tests  
-- **Automation Testing** – 🤖 Selenium + TestNG  
-- **API Testing** – 🌐 Postman/REST  
-- **Database Validation** – 🗄️ Oracle/MySQL  
-- **CI/CD Integration** – 🚀 Jenkins  
-- **Defect Logging & Tracking** – 🐞 Redmine  
-- **Root Cause Analysis & Production Validation** – 🔍 RCA  
-- **Release & Deployment** – 🎯 Deploy validated changes  
-- **Monitoring & Maintenance** – 📡 Continuous performance & RCA monitoring  -->
-
-flowchart LR
-    A[📄 Requirement<br/>Analysis] --> B[📝 Test Plan<br/>& Strategy]
-    B --> C[✍️ Test Case<br/>Design]
-    C --> D[🧪 Manual<br/>Testing]
-    D --> E[🤖 Automation<br/>Testing<br/>(Selenium + TestNG)]
-    E --> F[🌐 API<br/>Testing<br/>(Postman)]
-    F --> G[🗄️ Database<br/>Validation<br/>(Oracle / MySQL)]
-    G --> H[🚀 CI/CD<br/>Integration<br/>(Jenkins)]
-    H --> I[🐞 Defect<br/>Logging<br/>(Redmine)]
-    I --> J[🔍 RCA &<br/>Production<br/>Validation]
-    J --> K[🎯 Release &<br/>Deployment]
-    K --> L[📡 Monitoring &<br/>Maintenance]
+📄 Requirement Analysis
+        ↓
+📝 Test Plan & Strategy
+        ↓
+✍️ Test Case Design
+        ↓
+🧪 Manual Testing
+        ↓
+🤖 Automation Testing (Selenium + TestNG)
+        ↓
+🌐 API Testing (Postman)
+        ↓
+🗄️ Database Validation (Oracle / MySQL)
+        ↓
+🚀 CI/CD Integration (Jenkins)
+        ↓
+🐞 Defect Logging & Tracking (Redmine)
+        ↓
+🔍 RCA & Production Validation
+        ↓
+🎯 Release & Deployment
+        ↓
+📡 Monitoring & Maintenance
 
 ---
 
