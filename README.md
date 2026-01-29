@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm D K Logeswari</h1>
 <h3 align="center">QA Analyst | Java • Selenium • TestNG | Telecom Domain Expert</h3>
 
@@ -13,12 +11,12 @@
 ---
 
 ## About Me
-Detail-oriented **Quality Analyst** with 4+ years of experience in **manual & automation testing**, specializing in **Telecom Fault Management Systems (FMS)**.
+Detail-oriented **Quality Analyst** with 3+ years of experience in **Manual & Automation Testing**, specializing in **Telecom RCA System**.
 
-- ⚙️ Skilled in **Java + Selenium + TestNG automation**  
-- 🔁 Expert in **Regression, API & UI Testing**  
-- 📡 Strong domain expertise in **SDH, WDM & OTN networks**  
-- 🚀 Experienced in **CI/CD pipelines & production defect validation**
+⚙️ Skilled in **Java • Selenium • TestNG**  
+🔁 Expert in **Functional, Regression, API & UI Testing**  
+📡 Strong domain expertise in **SDH, WDM & OTN Networks**  
+🚀 Experienced in **CI/CD pipelines & production defect validation**
 
 ---
 
@@ -37,10 +35,9 @@ Detail-oriented **Quality Analyst** with 4+ years of experience in **manual & au
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SDH-Telecom-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SDH-WDM-OTN-Telecom-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WDM-Network-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OTN-Telecom-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FMS-FaultMgmt-purple?style=for-the-badge" />
 </p>
 
 ---
