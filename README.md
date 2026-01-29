@@ -2,13 +2,13 @@
 <h3 align="center">QA Analyst | Java • Selenium • TestNG | Telecom Domain Expert</h3>
 
 <p align="center">
-  <a href="mailto:logeswaridks@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=logeswaridks@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-logeswaridks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/logeswari31">
+  <a href="https://github.com/logeswari31" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-logeswari31-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://your-portfolio.netlify.app/">
+  <a href="https://your-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
