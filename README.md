@@ -74,11 +74,11 @@ Detail-oriented **Tech Engineer** with 3+ years of experience in **Manual & Auto
 ## 📡 Telecom QA Workflow (Visual)
 A fully visual workflow showing **Telecom QA lifecycle**, with icons for **alarms, servers, network layers, API, DB validation, CI/CD, and RCA**.
 
-<p align="center">
+<!-- <p align="center">
   <img src="./5c631281-25a0-4330-8d27-a8d8292acb11.png" alt="Telecom QA Workflow" width="800"/>
-</p>
+</p> -->
 
-### Workflow Steps
+<!-- ### Workflow Steps
 - **Requirement Analysis** – 📄 Document understanding & scope  
 - **Test Plan & Strategy** – 📝 Define test types, scope, and timelines  
 - **Test Case Design** – ✍️ Create manual & automation test cases  
@@ -90,7 +90,20 @@ A fully visual workflow showing **Telecom QA lifecycle**, with icons for **alarm
 - **Defect Logging & Tracking** – 🐞 Redmine  
 - **Root Cause Analysis & Production Validation** – 🔍 RCA  
 - **Release & Deployment** – 🎯 Deploy validated changes  
-- **Monitoring & Maintenance** – 📡 Continuous performance & RCA monitoring  
+- **Monitoring & Maintenance** – 📡 Continuous performance & RCA monitoring  -->
+
+flowchart LR
+    A[📄 Requirement<br/>Analysis] --> B[📝 Test Plan<br/>& Strategy]
+    B --> C[✍️ Test Case<br/>Design]
+    C --> D[🧪 Manual<br/>Testing]
+    D --> E[🤖 Automation<br/>Testing<br/>(Selenium + TestNG)]
+    E --> F[🌐 API<br/>Testing<br/>(Postman)]
+    F --> G[🗄️ Database<br/>Validation<br/>(Oracle / MySQL)]
+    G --> H[🚀 CI/CD<br/>Integration<br/>(Jenkins)]
+    H --> I[🐞 Defect<br/>Logging<br/>(Redmine)]
+    I --> J[🔍 RCA &<br/>Production<br/>Validation]
+    J --> K[🎯 Release &<br/>Deployment]
+    K --> L[📡 Monitoring &<br/>Maintenance]
 
 ---
 
